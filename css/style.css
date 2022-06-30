@@ -1,0 +1,89 @@
+body {
+   background-color: #FFE194;
+}
+
+.container-fluid {
+    padding: 3% 10% 7%;
+}
+
+/* Menu Section */
+
+#title {
+    background-color: #B8DFD8;
+    position: relative;
+}
+
+.menu-bar {
+    padding: 3% 10% 0%;
+}
+
+.title-slogan {
+    color: azure;
+}
+
+.navbar {
+    padding: 0;
+    background-color: #4C4C6D;
+}
+
+.navbar-brand {
+    margin-bottom: 0%;
+}
+
+.head-choroni {
+    /*display: block;*/
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+    vertical-align: top;
+}
+
+/* Title Section */
+
+
+/* Features Section */
+
+.features-row {
+    line-height: 2;
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+.right-img {
+    width: 300px;
+    height: 300px;
+    border-radius: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.left-img {
+    width: 300px;
+    height: 300px;
+    border-radius: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+/* Testimonial Section */
+
+#testimonials {
+    background-color: #B8DFD8;
+    text-align: center;
+}
+
+em {
+    color: black;
+}
+
+.testimonial-image {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+    color: black;
+}

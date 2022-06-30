@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="118.0px"
+   height="118.0px"
+   viewBox="0 0 118.0 118.0"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="casamori_logo_white.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview841"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="2.9362515"
+     inkscape:cx="-9.3656827"
+     inkscape:cy="55.0021"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid904" />
+  </sodipodi:namedview>
+  <defs
+     id="defs836">
+    <linearGradient
+       id="linearGradient66972"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop66970" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#fcfcfc;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 25,35 V 90"
+       id="path993" />
+    <path
+       style="fill:none;stroke:#f8f8f8;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 25,90 H 90 V 35"
+       id="path995" />
+    <path
+       style="fill:none;stroke:#fdfdfd;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="M 25,35 58,13 90,35"
+       id="path1352" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Sans;-inkscape-font-specification:Sans;fill:#000000;fill-opacity:1;stroke:none"
+       x="31.458271"
+       y="54.704937"
+       id="text12574"><tspan
+         sodipodi:role="line"
+         id="tspan12572"
+         x="31.458271"
+         y="54.704937"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Berlin Sans FB';-inkscape-font-specification:'Berlin Sans FB'" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="27.607136"
+       y="76.06636"
+       id="text17842"><tspan
+         sodipodi:role="line"
+         id="tspan17840"
+         x="27.607136"
+         y="76.06636" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.6837px;line-height:1.25;font-family:SansBetween;-inkscape-font-specification:SansBetween;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.2152"
+       x="30.003111"
+       y="53.721169"
+       id="text3097"
+       transform="scale(0.95676032,1.0451939)"><tspan
+         sodipodi:role="line"
+         x="30.003111"
+         y="53.721169"
+         id="tspan38249"
+         style="stroke-width:1.2152;fill:#ffffff;fill-opacity:1">CASA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.653px;line-height:1.25;font-family:SansBetween;-inkscape-font-specification:SansBetween;letter-spacing:4.2365px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.999263"
+       x="31.090467"
+       y="76.510735"
+       id="text3097-0"
+       transform="scale(0.94268726,1.0607972)"><tspan
+         sodipodi:role="line"
+         x="31.090467"
+         y="76.510735"
+         id="tspan38249-2"
+         style="stroke-width:0.999263;fill:#ffffff;fill-opacity:1">MORI</tspan></text>
+  </g>
+</svg>
